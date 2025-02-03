@@ -1,4 +1,4 @@
-# 首页
+# 新秀崛起
 
 [我的收藏](https://zuqiuxiaojiang.github.io/shoucang/)
 
