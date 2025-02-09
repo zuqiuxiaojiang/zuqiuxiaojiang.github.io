@@ -2,7 +2,7 @@
 
 [我的收藏](https://zuqiuxiaojiang.github.io/shoucang/)
 
-[应知应会](https://zuqiuxiaojiang.github.io/yingzhiyinghui/)
+[应知应会](https://zuqiuxiaojiang.github.io/sdic/)
 
 [我的收藏（FlowUs版）](https://flowus.cn/tianshizhiyi/share/ac4a6e3c-f8ba-4e5c-af66-9f04999701c1)
 
