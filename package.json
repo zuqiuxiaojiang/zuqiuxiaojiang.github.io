@@ -1,7 +1,7 @@
 {
-  "name": "zuqiuxiaojiang.github.io",
+  "name": "zzd",
   "version": "1.0.0",
-  "description": "キャプテン翼的介绍网站",
+  "description": "哲豆音形的介绍网站",
   "private": true,
   "type": "module",
   "scripts": {
@@ -12,7 +12,7 @@
     "wb": "vitepress build docs --base /"
   },
   "keywords": [],
-  "author": "zuqiuxiaojiang <553777402@qq.com>",
+  "author": "yb6b <seetxx@qq.com>",
   "license": "Apache-2",
   "devDependencies": {
     "@vueuse/core": "^12.2.0",
