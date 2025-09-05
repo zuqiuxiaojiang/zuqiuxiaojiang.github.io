@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8"> <!-- 设置网页字符编码为UTF-8 -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- 响应式设计：确保网页在不同设备上自适应 -->
-    <title>天使之翼</title> <!-- 网页的标题 -->
+    <title>勝利的凱歌</title> <!-- 网页的标题 -->
     <link rel="stylesheet" href="styles.css"> <!-- 引入外部CSS文件 -->
 
 <!--在<head>后加入如下代码（设置页面过期）-->
