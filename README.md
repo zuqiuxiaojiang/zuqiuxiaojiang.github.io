@@ -53,12 +53,10 @@ password();
         <h1>天使之翼</h1> <!-- 页面主标题 -->
     </div>
 
-	<h2>外部链接：</h2>
+	<h2>分站：</h2>
 	<p>
-		<a href="https://newapp.sdic.com.cn" target="_blank">
-			<img border="0" src="https://s21.ax1x.com/2025/04/15/pEWHYyd.png" alt="数字国投APP" width="32" height="32"> <!-- 链接到数字国投客户端，并显示图标 -->
-		</a> | 
-		<a href="http://exam.gtswims.com" target="_blank">国投生物网络考试系统</a> | <!-- 链接到国投生物网络考试系统 -->
+		<a href="https://zuqiuxiaojiang.github.io/-">分站-</a> |
+		<a href="https://zuqiuxiaojiang.github.io/_">分站_</a> |
 	</p>
 
 </body>
