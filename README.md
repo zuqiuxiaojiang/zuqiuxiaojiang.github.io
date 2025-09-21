@@ -53,7 +53,7 @@ password();
         <h1>天使之翼</h1> <!-- 页面主标题 -->
     </div>
 
-	<h2>站点🚏：</h2>github
+	<h2>站点🚏：</h2>
 	<p>
 		<a href="https://zuqiuxiaojiang.github.io">主站</a> |
 		<a href="https://zuqiuxiaojiang.github.io/-">分站-</a> |
