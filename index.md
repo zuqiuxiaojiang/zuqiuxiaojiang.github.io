@@ -17,11 +17,13 @@
 
 ## 🚏🚶⛩️🏃：
 
+<h4>
 <p>
-		<a href="https://zuqiuxiaojiang.github.io">主站</a> |
-		<a href="https://zuqiuxiaojiang.github.io/-">-站</a> |
-		<a href="https://zuqiuxiaojiang.github.io/_">_分站</a> |
+	<a href="https://zuqiuxiaojiang.github.io">本站</a> |
+	<a href="https://zuqiuxiaojiang.github.io/-">…我…</a> |
+	<a href="https://zuqiuxiaojiang.github.io/_">工作</a>
 </p>
+</h4>
 
 ###### *📱🉑扫码下方并关注*
 
