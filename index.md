@@ -19,7 +19,7 @@
 
 <h4>
 <p>
-	<a href="https://zuqiuxiaojiang.github.io">本站</a> |
+	<a href="https://zuqiuxiaojiang.github.io">首页</a> |
 	<a href="https://zuqiuxiaojiang.github.io/-">…我…</a> |
 	<a href="https://zuqiuxiaojiang.github.io/_">工作</a>
 </p>
