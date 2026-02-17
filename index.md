@@ -15,7 +15,7 @@
 <span class="inline-title">勝利的凱歌</span>
 </h1>
 
-## 🚏🚶⛩️🏃：
+## 首页：
 
 <h4>
 <p>
