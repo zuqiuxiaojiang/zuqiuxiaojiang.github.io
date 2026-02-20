@@ -50,7 +50,7 @@ password();
 		<a href="https://zuqiuxiaojiang.github.io" target="_blank">
 			<img src="https://s21.ax1x.com/2025/04/15/pEWH3WD.png" alt="🇨🇳"> <!-- 显示Logo -->
 		</a>
-        <h1>天使之翼</h1> <!-- 页面主标题 -->
+        <h1>翼</h1> <!-- 页面主标题 -->
     </div>
 
 	<h2>站点🚏：</h2>
