@@ -1,6 +1,4 @@
 
-<title>凯</title> <!-- 网页标题 -->
-
 <style>
   .inline-image {
     display: inline-block;
