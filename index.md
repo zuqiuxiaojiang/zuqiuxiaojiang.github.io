@@ -12,8 +12,9 @@
 <h3>
 <p>
 	<a href="https://zuqiuxiaojiang.github.io">首页</a> |
-	<a href="https://zuqiuxiaojiang.github.io/-">…我…</a> |
-	<a href="https://zuqiuxiaojiang.github.io/_">工作</a>
+	<a href="https://zuqiuxiaojiang.github.io/-">个人</a> |
+	<a href="https://zuqiuxiaojiang.github.io/_">工作</a> |
+	<a href="https://zuqiuxiaojiang.github.io/note">NOTE</a>
 </p>
 </h3>
 
